@@ -1,4 +1,4 @@
-# <p align="center">👋 こんにちは、Nguyễn Tiến  です！</p>
+# <p align="center">👋 こんにちは、Nguyễn Tiến Doanh です！</p>
 
 <p align="center">
   🌱 Full-Stack Engineering Student | 🤖 AI Enthusiast <br>
