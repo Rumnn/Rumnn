@@ -1,8 +1,8 @@
 # <p align="center">👋 こんにちは、Nguyễn Tiến Doanh です！</p>
 
 <p align="center">
-  🌱 Full-Stack Engineering Student | 🤖 AI Enthusiast <br>
-  🎓 Phenikaa University – 日本ITプログラム
+  🌱 Full-Stackエンジニアを目指す学生 ｜ 🤖 AI技術に興味があります <br> 
+  🎓 フェニカ大学 日越ITプログラム
 </p>
 
 ---
