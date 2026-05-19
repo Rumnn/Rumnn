@@ -7,28 +7,40 @@
 
 ---
 
-## 📌 自己紹介 (About Me)
+## 📌 自己紹介
 
-* 🧠 Lĩnh vực quan tâm: **Full-Stack phát triển, AI, Machine Learning, DX (Chuyển đổi số), Phát triển Game**.
-* 🌍 Ngôn ngữ: **Tiếng Nhật, Tiếng Anh, Tiếng Việt**.
-* 🎨 Sở thích: **Vẽ minh họa, Nghe nhạc, **.
+・関心のある分野：
+Full-stack開発、AI、機械学習、DX（デジタルトランスフォーメーション）、ゲーム開発
+
+・使用言語：
+日本語、英語、ベトナム語
+
+・趣味：
+イラストを描くこと、音楽を聴くこと
 
 ---
 
-## 🎯 将来の目標 (My Goals)
+## 🎯 将来の目標
 
-* 🕒 **短期 (~3年) / Ngắn hạn:** * Thiết lập kỹ năng Full-stack tập trung vào **React • Next.js • Node.js**.
-  * Làm chủ **MongoDB** và các hệ thống NoSQL.
-  * Thành thạo môi trường phát triển với **Docker** và quy trình **CI/CD**.
-  * *React・Next.js・Node.jsを中心としたFull-stackスキルを確立し、DockerやCI/CDを活用した開発環境に慣れること。*
+### 🕒 短期目標（〜3年）
 
-* 🚀 **中期 (~5年) / Trung hạn:** * Trở thành **Full-stack Engineer** có khả năng dẫn dắt (lead) các dự án quy mô vừa và nhỏ.
-  * Xây dựng các ứng dụng Web có tính mở rộng cao (Scalable Web Apps).
-  * *チームで小規模プロジェクトをリードできるFull-stackエンジニアになること。*
+・React・Next.js・Node.jsを中心としたFull-stack開発スキルを確立すること  
+・MongoDBなどのNoSQLデータベースを活用できるようになること  
+・DockerやCI/CDを用いた開発環境や開発フローに慣れること
 
-* 🌟 **長期 (>5年) / Dài hạn:** * Thử thách phát triển các hệ thống/dịch vụ tích hợp **công nghệ AI**, tạo ra giá trị mới cho xã hội.
-  * *AI技術を取り入れたシステムやサービス開発に挑戦し、社会に新しい価値を生み出すこと。*
+---
 
+### 🚀 中期目標（〜5年）
+
+・チームで小規模から中規模のプロジェクトをリードできるFull-stackエンジニアになること  
+・高い拡張性を持つWebアプリケーションを開発できるようになること
+
+---
+
+### 🌟 長期目標（5年以上）
+
+・AI技術を取り入れたシステムやサービス開発に挑戦すること  
+・社会に新しい価値を生み出せるエンジニアになること
 ---
 
 ## 🛠 使用技術 (Tech Stack)
